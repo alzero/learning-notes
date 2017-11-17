@@ -1,0 +1,12 @@
+- Understand proof for Tylor Series. [DONE]
+	* how to know which function is analytical?
+
+- Understand proof for Newton's Method.
+
+- Why 0^0 = 1^0 = ....
+
+- How will Maple solve the GPS problem with chahk? (check files in desktop)
+
+- Understand proof for explecitly directing gradients.
+
+- Use the gravitational force law, define a stable eliptic orbit.
